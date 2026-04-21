@@ -23,8 +23,8 @@ This project uses autonomous agents to generate high-quality, structured blog co
 - dotenv
 
 ---
-
 ## 📂 Project Structure
+
 ai-content-agent/
 │
 ├── app/
