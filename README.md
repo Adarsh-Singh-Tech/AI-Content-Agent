@@ -25,27 +25,6 @@ This project uses autonomous agents to generate high-quality, structured blog co
 ---
 ### 📂 Project Structure
 
-'''ai-content-agent/
-│
-├── app/
-│   ├── main.py              # Entry point
-│   ├── agents/
-│   │   └── content_writer.py
-│   ├── tasks/
-│   │   └── blog_task.py
-│
-├── outputs/
-│   └── blog_*.md            # Generated blogs
-│
-├── config/
-│   └── settings.py          # Future configs (optional)
-│
-├── .env                     # API keys (ignored)
-├── .gitignore
-├── requirements.txt
-├── README.md
-└── mainbk.py                # Backup (optional)
-
 <img width="481" height="395" alt="Screenshot 2026-04-21 at 11 11 16 PM" src="https://github.com/user-attachments/assets/33a5a5e9-5038-4670-ad18-4274d4c173df" />
 
 ## ⚙️ Setup Instructions
