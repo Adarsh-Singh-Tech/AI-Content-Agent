@@ -1,21 +1,21 @@
-# 🧠 AI Content Writer Agent (CrewAI + OpenRouter)
+#  AI Content Writer Agent (CrewAI + OpenRouter)
 
 An AI-powered content generation system built using CrewAI and OpenRouter.  
 This project uses autonomous agents to generate high-quality, structured blog content.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🤖 AI Content Writer Agent
-- 🧩 CrewAI-based multi-agent architecture (extensible)
-- ✍️ Generates 800–1000 word blog posts
-- 📄 Outputs saved automatically in Markdown (.md)
-- ⚡ Fast & cost-efficient using OpenRouter (GPT-4o-mini)
+-  AI Content Writer Agent
+-  CrewAI-based multi-agent architecture (extensible)
+-  Generates 800–1000 word blog posts
+-  Outputs saved automatically in Markdown (.md)
+-  Fast & cost-efficient using OpenRouter (GPT-4o-mini)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3.11
 - CrewAI
@@ -29,7 +29,7 @@ This project uses autonomous agents to generate high-quality, structured blog co
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the repo
+### 1️ Clone the repo
 
 bash
 git clone https://github.com/YOUR_USERNAME/ai-content-agent.git
@@ -58,11 +58,11 @@ Uses gpt-4o-mini (low cost model)
 Approx ₹0.2 – ₹1 per blog generation
 
 ### Future Improvements
-🔍 Research Agent (multi-agent system)
-📝 Editor/Proofreading Agent
-🌐 Web UI (Streamlit / React)
-🚀 API deployment (FastAPI)
-💼 SaaS integration
+ Research Agent (multi-agent system)
+ Editor/Proofreading Agent
+ Web UI (Streamlit / React)
+ API deployment (FastAPI)
+ SaaS integration
 
 ## ⚠️ Notes
 .env file is excluded for security
