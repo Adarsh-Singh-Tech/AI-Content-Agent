@@ -33,7 +33,7 @@ Adarsh-AI-Lib/
 ├── tasks.py # Task instructions
 ├── .env # API keys (not pushed)
 ├── blog_*.md # Generated outputs
-└── README.m
+└── README.md
 ---
 
 ## ⚙️ Setup Instructions
