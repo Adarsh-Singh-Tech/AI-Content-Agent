@@ -25,15 +25,26 @@ This project uses autonomous agents to generate high-quality, structured blog co
 ---
 
 ## 📂 Project Structure
-Adarsh-AI-Lib/
+ai-content-agent/
 │
-├── main.py # Runs the agent & saves output
-├── mainbk.py # Backup version
-├── agents.py # AI agent definition
-├── tasks.py # Task instructions
-├── .env # API keys (not pushed)
-├── blog_*.md # Generated outputs
-└── README.md
+├── app/
+│   ├── main.py              # Entry point
+│   ├── agents/
+│   │   └── content_writer.py
+│   ├── tasks/
+│   │   └── blog_task.py
+│
+├── outputs/
+│   └── blog_*.md            # Generated blogs
+│
+├── config/
+│   └── settings.py          # Future configs (optional)
+│
+├── .env                     # API keys (ignored)
+├── .gitignore
+├── requirements.txt
+├── README.md
+└── mainbk.py                # Backup (optional)
 ---
 
 ## ⚙️ Setup Instructions
